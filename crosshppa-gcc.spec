@@ -6,7 +6,7 @@ Summary(pt_BR.UTF-8):   Utilitários para desenvolvimento de binários da GNU - 
 Summary(tr.UTF-8):   GNU geliştirme araçları - HP Parisc gcc
 Name:		crosshppa-gcc
 Version:	3.3.6
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Languages
 Source0:	ftp://gcc.gnu.org/pub/gcc/releases/gcc-%{version}/gcc-%{version}.tar.bz2
